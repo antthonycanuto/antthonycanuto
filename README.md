@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @antthonycanuto
-- 🌱 I’m currently learning html, css and javascript...
+Quem sou eu no mundo da TI
+ 
+◻️ Estudo Sistemas de Informação iniciado em novembro de 2022.
 
+◻️ Participando neste momento do programa ONE Oracle Education, promovido pela Oracle e Alura.
 
-<!---
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+◻️ Estou me especializando em desenvolvimento front-end com JS, Vue e ReactJS.
 
-antthonycanuto/antthonycanuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+◻️ Tecnologias que já utilizo: JavaScript ▫️ SQL (MySQL) ▫️ HTML ▫️ CSS ▫️ Git.
+
+◻️ Este é o meu perfil no LinkedIn: https://www.linkedin.com/in/antthonycanuto
+
+◻️ Caso queira seguir meu perfil no GitHub, vou ficar muito feliz – sendo que prometo acompanhar seu trabalho aqui também!  : )
